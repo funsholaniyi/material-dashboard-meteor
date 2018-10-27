@@ -3,3 +3,10 @@ Router.route('/',  function() {
 });
 
 Router.route('/blank');
+Router.route('/icons');
+Router.route('/maps');
+Router.route('/notifications');
+Router.route('/tables');
+Router.route('/typography');
+Router.route('/upgrade');
+Router.route('/user');
