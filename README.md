@@ -1,9 +1,6 @@
 
 # Material Dashboard Meteor
 
-## Live demo
-
-http://funsholaniyi.github.io/material-dashboard-meteor/
 
 ## Credits
 
